@@ -1,0 +1,4 @@
+repository "COFProjecy/COFProjecy@2474966891863@cloud"
+  path "/"
+    br "/main"
+    co "/main"
